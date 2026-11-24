@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+
+.env
+.env.*
+!.env.example
+
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded embedding models
+/ml-service/models/
+
+# Local import checkpoints and operational files
+/backend/.local/
