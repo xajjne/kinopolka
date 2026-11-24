@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Lyaguh21/kinopolka-frontend.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/xajjne/kinopolka-backend.git
+	branch = main
+[submodule "ml-service"]
+	path = ml-service
+	url = https://github.com/xajjne/kinopolka-ml-service.git
+	branch = main
