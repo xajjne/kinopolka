@@ -105,12 +105,3 @@
   <a href="https://github.com/Lyaguh21/kinopolka-frontend/blob/f23819bb0cdd3b1af747f001ab2580b84ad6ab6e/docs/screens/23%20%C2%B7%20%D0%A2%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D1%82%D1%81%D1%8F%20%D0%B2%D1%85%D0%BE%D0%B4.png"><img src="https://raw.githubusercontent.com/Lyaguh21/kinopolka-frontend/f23819bb0cdd3b1af747f001ab2580b84ad6ab6e/docs/screens/23%20%C2%B7%20%D0%A2%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D1%82%D1%81%D1%8F%20%D0%B2%D1%85%D0%BE%D0%B4.png" width="49%" alt="Страница с предложением войти" /></a>
   <a href="https://github.com/Lyaguh21/kinopolka-frontend/blob/f23819bb0cdd3b1af747f001ab2580b84ad6ab6e/docs/screens/24%20%C2%B7%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20404.png"><img src="https://raw.githubusercontent.com/Lyaguh21/kinopolka-frontend/f23819bb0cdd3b1af747f001ab2580b84ad6ab6e/docs/screens/24%20%C2%B7%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20404.png" width="49%" alt="Страница ошибки 404" /></a>
 </p>
-
-## Запуск
-
-### Веб-приложение
-
-```bash
-npm install
-npm run dev
-```
